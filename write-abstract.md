@@ -14,7 +14,7 @@ Write in a clear, calm, explanatory style that uses two concise sentences when p
    * **If Procedure:**
      *Prioritize a WHY-first structure beginning with “To…”*
      Use patterns like:
-     **“To *achieve goal the goal that this procedure accomplishes*, you can *perform action*.”**
+     **“To *achieve the goal that this procedure accomplishes*, you can *perform action*.”**
      Include the purpose or benefit up front.
 
    * **If Concept:**
